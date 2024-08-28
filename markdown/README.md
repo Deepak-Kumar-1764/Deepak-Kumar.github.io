@@ -1,62 +1,41 @@
-Deepak Kumar
-
-Deepak Kumar Personal page
-==========================
+# Deepak Kumar
 
 ![My Pic](C:\Users\lenovo\Documents\DEEPAK PERTIONAL DOC\2101028 DEEPAK KUMAR.JPG)
 
-* * *
+---
 
-My name is Deepak Kumar. I Live in Barabanki , UttarPradesh, India. I am currently Studying B.tech
+My name is Deepak Kumar. I live in Barabanki, Uttar Pradesh, India. I am currently pursuing a B.Tech.
 
-* * *
+---
 
-Education
----------
+## Education
 
-Year of Gradution
+| Year | Degree                         | Institution                         |
+|------|--------------------------------|-------------------------------------|
+| 2024 | B.Tech.                        | IIT Goa                             |
+| 2021 | 12th Standard or Equivalent    | National Institute of Open School   |
+| 2019 | 10th Standard or Equivalent    | St. Joseph School                   |
 
-degree/th>
+---
 
-Instution
-
-2024
-
-B.tech.
-
-IIT GOA
-
-2021
-
-12thstandard or equivalent
-
-National Institue of Open School
-
-2019
-
-10thstandard or equivalent
-
-ST.joseph school
-
-* * *
-
-1st year course@IIT Goa
------------------------
+## 1st Year Courses @ IIT Goa
 
 ### Autumn Semester
 
-*   **Cs 100**: Autumn 2021 by _neha karanjkar_
-*   **CH 102**: Inoragnic Chemistry by_Raja Mitra_and Oragnic by _Rishikesh narayan_
-*   **CH 104**: Chemistry lab by E Siva S.
-*   **CH 102**: Physical Chemistry by E Siva S.
-*   MTH 101: by Sandipan De
-*   CS 101: Introduction to computing by Clint P. George
-*   Ph 101: by santosh Kumar das
-*   HS 101: by Sabiha Hashami
+- **CS 100**: Programming by *Neha Karanjkar*
+- **CH 102**: Inorganic Chemistry by *Raja Mitra* and Organic Chemistry by *Rishikesh Narayan*
+- **CH 104**: Chemistry Lab by *E. Siva S.*
+- **CH 102**: Physical Chemistry by *E. Siva S.*
+- **MTH 101**: Mathematics by *Sandipan De*
+- **CS 101**: Introduction to Computing by *Clint P. George*
+- **PH 101**: Physics by *Santosh Kumar Das*
+- **HS 101**: Humanities by *Sabiha Hashami*
 
-1.  CS102 : Important tools by Clint P George
-2.  MTH1021: Linear algebra by Kalpesh Haria
-3.  PH102 : Electricity and Magnetism by Vaibhav Wasnik
-4.  ME102 : Engieering drawing by Anirudha Sharma
-5.  BIO101 : Introduction to biology by Sreenath Balakrishnan
-6.  PH 104: Physics lab by Sudipta Kanungo
+### Spring Semester
+
+1. **CS 102**: Important Tools by *Clint P. George*
+2. **MTH 102**: Linear Algebra by *Kalpesh Haria*
+3. **PH 102**: Electricity and Magnetism by *Vaibhav Wasnik*
+4. **ME 102**: Engineering Drawing by *Anirudha Sharma*
+5. **BIO 101**: Introduction to Biology by *Sreenath Balakrishnan*
+6. **PH 104**: Physics Lab by *Sudipta Kanungo*
