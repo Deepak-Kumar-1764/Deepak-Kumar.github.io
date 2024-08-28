@@ -12,9 +12,9 @@ My name is Deepak Kumar. I live in Barabanki, Uttar Pradesh, India. I am current
 
 | Year | Degree                         | Institution                         |
 |------|--------------------------------|-------------------------------------|
-| 2024 | B.Tech.                        | IIT Goa                             |
-| 2021 | 12th Standard or Equivalent    | National Institute of Open School   |
-| 2019 | 10th Standard or Equivalent    | St. Joseph School                   |
+| 2025 | B.Tech.                        | IIT Goa                             |
+| 2020 | 12th Standard or Equivalent    | FJIC Safdarganj Barabanki           | 
+| 2018 | 10th Standard or Equivalent    | FJIC Safdarganj Barabanki           |
 
 ---
 
